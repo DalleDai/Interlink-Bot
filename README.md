@@ -36,8 +36,8 @@
 
 1. **Clone the repo**:
 ```bash
-git clone https://github.com/DalleDai/Interlink-Multi-Bot.git
-cd Interlink-Multi-Bot
+git clone https://github.com/DalleDai/Interlink-Bot.git
+cd Interlink-Bot
 ```
 
 2. **Install dependencies**:
