@@ -36,7 +36,7 @@
 
 1. **Clone the repo**:
 ```bash
-git clone https://github.com/cryptodai3/Interlink-Multi-Bot.git
+git clone https://github.com/DalleDai/Interlink-Multi-Bot.git
 cd Interlink-Multi-Bot
 ```
 
